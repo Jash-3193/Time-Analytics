@@ -16,6 +16,7 @@ unzip brazilian-ecommerce.zip
 Source - The dataset consists of real-world delivery details sourced from a Brazilian E-commerce Company which was scrubbed and anonymized.
 
 It consists of multiple tables which include relevant information about the customer, seller, order, location etc. The individual tables are interconnected as shown in the following schema. Relevant features will be extracted/designed from this data and then be used to train our supervised ML model.
+
 ⭐ References:
 https://30days.streamlit.app/
 https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app
